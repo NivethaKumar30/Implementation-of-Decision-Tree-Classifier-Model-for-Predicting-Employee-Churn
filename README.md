@@ -57,7 +57,7 @@ plt.show()
 
 DATASET:
 
-![image](https://github.com/NivethaKumar30/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119559844/17628183-3fbb-4485-b499-b88f61a713b0)
+![Screenshot 2024-04-03 160840](https://github.com/NivethaKumar30/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119559844/fbcef180-35d5-4742-9bee-1ed58c065442)
 
 ACCURACY AND dt predict()
 
